@@ -1,28 +1,22 @@
-# 📌 Nome do Projeto
+# 👨‍💻 Sobre Mim
 
-Breve descrição do seu projeto. Explique o que ele faz e por que é útil.
+Olá! Meu nome é Hugo Manoél de Souza Lopes e sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens e tecnologias, sempre buscando aprimorar minhas habilidades e contribuir para projetos inovadores.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Habilidades
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+Tenho experiência com as seguintes tecnologias:
 
-- [Tecnologia 1](#)
-- [Tecnologia 2](#)
-- [Tecnologia 3](#)
+- **Linguagens de Programação:** Python, HTML, CSS
+- **Desenvolvimento Web:** HTML5, CSS3
+- **Automação e Scripts:** Python para automação de tarefas
 
-## 📦 Instalação
+## 📫 Contato
 
-Para instalar e rodar o projeto localmente, siga os passos abaixo:
+Se quiser trocar uma ideia sobre tecnologia ou colaborar em um projeto, entre em contato comigo:
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+- GitHub: [loppzh](https://github.com/loppzh)
+- Email: [contatoloppzh@gmail.com](mailto:contatoloppzh@gmail.com)
 
-# Acesse a pasta do projeto
-cd nome-do-projeto
+---
 
-# Instale as dependências
-comando de instalação
-
-# Execute o projeto
-comando para rodar
+Feito com 💙 por Hugo Manoél de Souza Lopes (https://github.com/loppzh)!
